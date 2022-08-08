@@ -1,0 +1,23 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lekandev/jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lekandev/jest/issues"
+  },
+  "homepage": "https://github.com/lekandev/jest#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
